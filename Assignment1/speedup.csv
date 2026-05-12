@@ -1,0 +1,6 @@
+threads,updateDisplay_speedup,printOrderStats_speedup,totalAmountTraded_speedup
+1,1.09151,1.09304,0.928096
+4,3.43757,3.48305,2.92917
+8,6.09447,5.30644,4.47888
+12,8.21075,7.65582,6.41607
+16,9.11272,8.60387,7.02687
